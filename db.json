@@ -5,7 +5,7 @@
       "email": "omareroo68@gmail.com",
       "password": "Saadezz2001",
       "id": 1749837672185,
-      "avatar": "https://via.placeholder.com/150",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1000",
       "createdAt": "2025-06-13T18:01:12.185Z"
     },
     {
@@ -13,15 +13,79 @@
       "email": "saadezz645@gmail.com",
       "password": "Saadezz2001",
       "id": 1749932429645,
-      "avatar": "https://via.placeholder.com/150",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1000",
       "createdAt": "2025-06-14T20:20:29.645Z"
+    },
+    {
+      "username": "Sarah Johnson",
+      "email": "sarah.j@example.com",
+      "password": "Sarah2024!",
+      "id": 1750010783648,
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000",
+      "createdAt": "2025-06-15T10:00:00.000Z"
+    },
+    {
+      "username": "Alex Chen",
+      "email": "alex.chen@example.com",
+      "password": "Chen2024!",
+      "id": 1750010783649,
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1000",
+      "createdAt": "2025-06-15T11:00:00.000Z"
+    },
+    {
+      "username": "Maria Garcia",
+      "email": "maria.g@example.com",
+      "password": "Garcia2024!",
+      "id": 1750010783650,
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1000",
+      "createdAt": "2025-06-15T12:00:00.000Z"
+    },
+    {
+      "username": "James Wilson",
+      "email": "james.w@example.com",
+      "password": "Wilson2024!",
+      "id": 1750010783651,
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1000",
+      "createdAt": "2025-06-15T13:00:00.000Z"
+    },
+    {
+      "username": "Emma Thompson",
+      "email": "emma.t@example.com",
+      "password": "Thompson2024!",
+      "id": 1750010783652,
+      "avatar": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?q=80&w=1000",
+      "createdAt": "2025-06-15T14:00:00.000Z"
+    },
+    {
+      "username": "David Kim",
+      "email": "david.k@example.com",
+      "password": "Kim2024!",
+      "id": 1750010783653,
+      "avatar": "https://images.unsplash.com/photo-1506795660198-e95c632ab5ca?q=80&w=1000",
+      "createdAt": "2025-06-15T15:00:00.000Z"
+    },
+    {
+      "username": "Sophie Anderson",
+      "email": "sophie.a@example.com",
+      "password": "Anderson2024!",
+      "id": 1750010783654,
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1000",
+      "createdAt": "2025-06-15T16:00:00.000Z"
+    },
+    {
+      "username": "Michael Brown",
+      "email": "michael.b@example.com",
+      "password": "Brown2024!",
+      "id": 1750010783655,
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1000",
+      "createdAt": "2025-06-15T17:00:00.000Z"
     }
   ],
   "posts": [
     {
-      "title": "SAve Gaza",
-      "description": "dmcsLKBNVlepsihfnvlkzsnlkvirahl",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa41SYLZg0ut0lxSQ-hMRag5YaTZUQ1mDUzA&s",
+      "title": "The Future of AI Technology",
+      "description": "Exploring the latest advancements in artificial intelligence and how they're shaping our future. From machine learning to neural networks, discover the cutting-edge innovations that are revolutionizing various industries.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1000",
       "id": 1749837795515,
       "userId": 1749837672185,
       "username": "Saad Ezz",
@@ -29,9 +93,9 @@
       "updatedAt": "2025-06-13T18:03:15.515Z"
     },
     {
-      "title": "Saaad nsdcm, snd.kcvn.",
-      "description": "ansck;nbsdklvhioewhlscxnm, bsd,ak",
-      "image": "https://s.hs-data.com/bilder/spieler/gross/13029.jpg",
+      "title": "Sustainable Living Tips",
+      "description": "Simple yet effective ways to reduce your carbon footprint and live more sustainably. Learn about eco-friendly practices, renewable energy, and how small changes can make a big impact on our planet.",
+      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=1000",
       "id": 1749929754681,
       "userId": 1749837672185,
       "username": "Saad Ezz",
@@ -39,14 +103,114 @@
       "updatedAt": "2025-06-14T19:35:54.681Z"
     },
     {
-      "title": "Cvx<mmB,NXZMCVB",
-      "description": "wdihpewiofiowehgkds,jbbckjbkjcbjkds",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu4RsCfoBYE4gan-EGNAvN3uRY0x43GwyK5A&s",
+      "title": "Digital Photography Masterclass",
+      "description": "Master the art of digital photography with these essential tips and techniques. From composition to post-processing, learn how to capture stunning images that tell compelling stories.",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=1000",
       "id": 1749933475182,
       "userId": 1749932429645,
       "username": "omar",
       "createdAt": "2025-06-14T20:37:55.182Z",
       "updatedAt": "2025-06-14T20:37:55.182Z"
+    },
+    {
+      "title": "Healthy Cooking Made Easy",
+      "description": "Discover delicious and nutritious recipes that are quick to prepare and good for your health. Transform your cooking routine with these simple yet flavorful meal ideas.",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=1000",
+      "id": 1750010783646,
+      "userId": 1749837672185,
+      "username": "Saad Ezz",
+      "createdAt": "2025-06-15T18:06:23.646Z",
+      "updatedAt": "2025-06-15T18:06:23.646Z"
+    },
+    {
+      "title": "Travel Photography Guide",
+      "description": "Capture the essence of your travels with these professional photography tips. Learn how to document your adventures and create lasting memories through stunning imagery.",
+      "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1000",
+      "id": 1750010783647,
+      "userId": 1749932429645,
+      "username": "omar",
+      "createdAt": "2025-06-15T18:06:23.647Z",
+      "updatedAt": "2025-06-15T18:06:23.647Z"
+    },
+    {
+      "title": "Mindfulness Meditation Techniques",
+      "description": "Learn effective mindfulness meditation techniques to reduce stress and improve mental well-being. Discover how just 10 minutes a day can transform your life.",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1000",
+      "id": 1750010783656,
+      "userId": 1750010783648,
+      "username": "Sarah Johnson",
+      "createdAt": "2025-06-15T19:00:00.000Z",
+      "updatedAt": "2025-06-15T19:00:00.000Z"
+    },
+    {
+      "title": "Web Development Trends 2024",
+      "description": "Stay ahead of the curve with the latest web development trends. From AI-powered tools to new frameworks, explore what's shaping the future of web development.",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1000",
+      "id": 1750010783657,
+      "userId": 1750010783649,
+      "username": "Alex Chen",
+      "createdAt": "2025-06-15T20:00:00.000Z",
+      "updatedAt": "2025-06-15T20:00:00.000Z"
+    },
+    {
+      "title": "Urban Gardening Guide",
+      "description": "Transform your small space into a green oasis with these urban gardening tips. Learn how to grow your own herbs, vegetables, and flowers in limited spaces.",
+      "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?q=80&w=1000",
+      "id": 1750010783658,
+      "userId": 1750010783650,
+      "username": "Maria Garcia",
+      "createdAt": "2025-06-15T21:00:00.000Z",
+      "updatedAt": "2025-06-15T21:00:00.000Z"
+    },
+    {
+      "title": "Financial Planning Basics",
+      "description": "Master the fundamentals of financial planning with these essential tips. Learn about budgeting, saving, investing, and securing your financial future.",
+      "image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?q=80&w=1000",
+      "id": 1750010783659,
+      "userId": 1750010783651,
+      "username": "James Wilson",
+      "createdAt": "2025-06-15T22:00:00.000Z",
+      "updatedAt": "2025-06-15T22:00:00.000Z"
+    },
+    {
+      "title": "Creative Writing Workshop",
+      "description": "Unlock your creative potential with these writing exercises and techniques. Whether you're a beginner or experienced writer, discover new ways to express yourself.",
+      "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=1000",
+      "id": 1750010783660,
+      "userId": 1750010783652,
+      "username": "Emma Thompson",
+      "createdAt": "2025-06-15T23:00:00.000Z",
+      "updatedAt": "2025-06-15T23:00:00.000Z"
+    },
+    {
+      "title": "Fitness Journey Transformation",
+      "description": "Follow my personal fitness journey and learn the strategies that helped me achieve my goals. From workout routines to nutrition tips, get inspired to start your own transformation.",
+      "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1000",
+      "id": 1750010783661,
+      "userId": 1750010783653,
+      "username": "David Kim",
+      "createdAt": "2025-06-16T00:00:00.000Z",
+      "updatedAt": "2025-06-16T00:00:00.000Z"
+    },
+    {
+      "title": "Art Therapy Benefits",
+      "description": "Explore the healing power of art therapy and its benefits for mental health. Learn how creative expression can help manage stress and improve emotional well-being.",
+      "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=1000",
+      "id": 1750010783662,
+      "userId": 1750010783654,
+      "username": "Sophie Anderson",
+      "createdAt": "2025-06-16T01:00:00.000Z",
+      "updatedAt": "2025-06-16T01:00:00.000Z"
+    },
+    {
+      "title": "Tech Gadgets Review 2024",
+      "description": "An in-depth review of the most innovative tech gadgets of 2024. From smart home devices to wearable technology, discover what's worth your investment.",
+      "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?q=80&w=1000",
+      "id": 1750010783663,
+      "userId": 1750010783655,
+      "username": "Michael Brown",
+      "createdAt": "2025-06-16T02:00:00.000Z",
+      "updatedAt": "2025-06-16T02:00:00.000Z"
     }
   ],
   "likes": [
