@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "username": "Saad Ezz",
+      "email": "omareroo68@gmail.com",
+      "password": "Saadezz2001",
+      "id": 1749837672185,
+      "avatar": "https://via.placeholder.com/150",
+      "createdAt": "2025-06-13T18:01:12.185Z"
+    },
+    {
+      "username": "omar",
+      "email": "saadezz645@gmail.com",
+      "password": "Saadezz2001",
+      "id": 1749932429645,
+      "avatar": "https://via.placeholder.com/150",
+      "createdAt": "2025-06-14T20:20:29.645Z"
+    }
+  ],
+  "posts": [
+    {
+      "title": "SAve Gaza",
+      "description": "dmcsLKBNVlepsihfnvlkzsnlkvirahl",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa41SYLZg0ut0lxSQ-hMRag5YaTZUQ1mDUzA&s",
+      "id": 1749837795515,
+      "userId": 1749837672185,
+      "username": "Saad Ezz",
+      "createdAt": "2025-06-13T18:03:15.515Z",
+      "updatedAt": "2025-06-13T18:03:15.515Z"
+    },
+    {
+      "title": "Saaad nsdcm, snd.kcvn.",
+      "description": "ansck;nbsdklvhioewhlscxnm, bsd,ak",
+      "image": "https://s.hs-data.com/bilder/spieler/gross/13029.jpg",
+      "id": 1749929754681,
+      "userId": 1749837672185,
+      "username": "Saad Ezz",
+      "createdAt": "2025-06-14T19:35:54.681Z",
+      "updatedAt": "2025-06-14T19:35:54.681Z"
+    },
+    {
+      "title": "Cvx<mmB,NXZMCVB",
+      "description": "wdihpewiofiowehgkds,jbbckjbkjcbjkds",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu4RsCfoBYE4gan-EGNAvN3uRY0x43GwyK5A&s",
+      "id": 1749933475182,
+      "userId": 1749932429645,
+      "username": "omar",
+      "createdAt": "2025-06-14T20:37:55.182Z",
+      "updatedAt": "2025-06-14T20:37:55.182Z"
+    }
+  ],
+  "likes": [
+    {
+      "id": 1749932433637,
+      "postId": 1749837795515,
+      "userId": 1749932429645,
+      "createdAt": "2025-06-14T20:20:33.637Z"
+    },
+    {
+      "id": 1749932435466,
+      "postId": 1749929754681,
+      "userId": 1749932429645,
+      "createdAt": "2025-06-14T20:20:35.466Z"
+    }
+  ],
+  "bookmarks": [
+    {
+      "id": 1749932437680,
+      "postId": 1749837795515,
+      "userId": 1749932429645,
+      "createdAt": "2025-06-14T20:20:37.680Z"
+    },
+    {
+      "id": 1749932446673,
+      "postId": 1749929754681,
+      "userId": 1749932429645,
+      "createdAt": "2025-06-14T20:20:46.673Z"
+    },
+    {
+      "id": 1750010783645,
+      "postId": 1749933475182,
+      "userId": 1749837672185,
+      "createdAt": "2025-06-15T18:06:23.645Z"
+    }
+  ]
+}
